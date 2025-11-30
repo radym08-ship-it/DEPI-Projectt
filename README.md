@@ -69,5 +69,30 @@ The dashboard is built using a star schema model with the following tables:
 - Supports strategic decisions in pricing, shipping, and inventory.
 - Enhances visibility into discount impact and profitability.
 
+---
+
+### 🖼️ Dashboard Snapshots
+
+Below are preview images of the Power BI dashboard pages included in this project. These screenshots illustrate the design, navigation, and analytical insights provided by the report.
+
+
+1. Time Analysis Dashboard
+
+Sales trends over time, shipping method breakdown, order duration, and KPIs.
+
+![Dashboard Screenshot](screeen 111.png)
+
+2. Regional Analysis Dashboard
+
+Geographical breakdown of sales by U.S. states and customer segments.
+
+![Dashboard Screenshot](screen 1.png)
+
+
+3. Product Analysis Dashboard
+
+Profit by sub-category, category performance, and top products.
+
+![Dashboard Screenshot](screeen 33.png)
 
 
