@@ -11,7 +11,7 @@ The dashboard is built using a star schema model with the following tables:
 - **Dim_Customer**: Contains customer details.
 - **Dim_Date**: Includes date-related information.
 - **Dim_Product**: Holds product attributes.
-- - **Dim_Location**: Includes location-related information.
+-  **Dim_Location**: Includes location-related information.
 - **Fact_Superstore**: The central fact table with sales, profit, discount, shipping, and order data.
 
 ---
