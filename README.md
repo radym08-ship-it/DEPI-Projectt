@@ -1,4 +1,3 @@
-
 ## 📊 Project Documentation: Power BI – "Dashboard For Sales Store"
 
 ### 🧭 Project Objective
@@ -80,19 +79,17 @@ Below are preview images of the Power BI dashboard pages included in this projec
 
 Sales trends over time, shipping method breakdown, order duration, and KPIs.
 
-![Dashboard Screenshot](screeen 111.png)
+![Dashboard Screenshot](screeen111.png)
 
 2. Regional Analysis Dashboard
 
 Geographical breakdown of sales by U.S. states and customer segments.
 
-![Dashboard Screenshot](screen 1.png)
+![Dashboard Screenshot](screen1.png)
 
 
 3. Product Analysis Dashboard
 
 Profit by sub-category, category performance, and top products.
 
-![Dashboard Screenshot](screeen 33.png)
-
-
+![Dashboard Screenshot](screeen33.png)
